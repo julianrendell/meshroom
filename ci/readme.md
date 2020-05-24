@@ -7,3 +7,5 @@ Please add enough information that an end user could manually execute these scri
 This is an initial attempt to get things running.
 
 Long term goal will be to pull common code into shared scripts.
+
+See https://github.com/appveyor/ci/issues/899#issuecomment-567280434 for setting up AppVeyor to checkout repos with submodules.
